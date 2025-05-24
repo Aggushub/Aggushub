@@ -21,6 +21,10 @@ Hi, I’m Joel Amos Philip — also known as Dead Man Coding 💀💻. Inspired 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aggushub&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+## 🏆 LeetCode Stats:
+
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=letaggucode&theme=dark&hide_border=false)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aggushub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
