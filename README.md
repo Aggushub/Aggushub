@@ -1,5 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Micro+5&size=40&pause=1000&color=F71129&background=FF000000&multiline=true&repeat=false&width=435&lines=Welcome+to+AggusHub)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
-Hi, I’m Joel Amos Philip — also known as Dead Man Coding 💀💻. Inspired by The Undertaker ⚰️, the name reflects my quiet persistence: I might vanish into deep focus for hours (or days) 🕵️‍♂️⌛, but I always rise with working code 🧟‍♂️✨. I believe great ideas 💡 are often built in silence 🤫, refined through trial 🔄, and delivered with impact ⚡ — no drama, just results ✅.<br><br>I enjoy exploring the “why” behind things 🤔, breaking down problems until they’re simple 🧩, and occasionally having existential debates with my debugger 🐞💬. Tech should be thoughtful 🤓, useful 🔧, and a little bit fun 🎉 — just like good storytelling 📖... or a well-timed comeback 😏.<br><br>
+Hi, I’m Joel Amos Philip —  a CSE undergrad from the College of Engineering Poonjar with a passion for building smart solutions, automating tasks, and learning through hands-on projects. Always curious, always coding.I'm also known as Dead Man Coding 💀💻. Inspired by The Undertaker ⚰️, the name reflects my quiet persistence: I might vanish into deep focus for hours (or days) 🕵️‍♂️⌛, but I always rise with working code 🧟‍♂️✨. I believe great ideas 💡 are often built in silence 🤫, refined through trial 🔄, and delivered with impact ⚡ — no drama, just results ✅.<br><br>I enjoy exploring the “why” behind things 🤔, breaking down problems until they’re simple 🧩, and occasionally having existential debates with my debugger 🐞💬. Tech should be thoughtful 🤓, useful 🔧, and a little bit fun 🎉 — just like good storytelling 📖... or a well-timed comeback 😏.<br><br>
 
 
 ## 🌐 Socials:
