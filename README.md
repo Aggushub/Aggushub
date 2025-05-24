@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Micro+5&size=40&pause=1000&color=F71129&background=FF000000&multiline=true&repeat=false&width=435&lines=Welcome+to+AggusHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Micro+5&size=40&pause=1000&color=F71129&background=FF000000&multiline=true&repeat=true&width=435&lines=Welcome+to+AggusHub)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
