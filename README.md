@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Hi, I’m Joel Amos Philip —  a CSE undergrad from the College of Engineering Poonjar with a passion for building smart solutions, automating tasks, and learning through hands-on projects. Always curious, always coding.I'm also known as Dead Man Coding 💀💻. Inspired by The Undertaker ⚰️, the name reflects my quiet persistence: I might vanish into deep focus for hours (or days) 🕵️‍♂️⌛, but I always rise with working code 🧟‍♂️✨. I believe great ideas 💡 are often built in silence 🤫, refined through trial 🔄, and delivered with impact ⚡ — no drama, just results ✅.<br><br>I enjoy exploring the “why” behind things 🤔, breaking down problems until they’re simple 🧩, and occasionally having existential debates with my debugger 🐞💬. Tech should be thoughtful 🤓, useful 🔧, and a little bit fun 🎉 — just like good storytelling 📖... or a well-timed comeback 😏.<br><br>
+I’m Joel Amos Philip, a Computer Science and Engineering undergraduate at the College of Engineering Poonjar, passionate about creating smart solutions and automating tasks through hands-on projects. Known as Dead Man Coding for my quiet persistence and deep focus, I believe great ideas are often developed in silence, refined through continuous iteration, and delivered with meaningful impact. I enjoy exploring the “why” behind problems, simplifying complexity, and having thoughtful exchanges with my debugger to craft clean, efficient code. To me, technology should be thoughtful, practical, and a little bit fun—like a well-told story or a perfectly timed comeback.
 
 
 ## 🌐 Socials:
