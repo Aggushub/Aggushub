@@ -18,6 +18,17 @@ Hi, I'm Joel Amos Philip, a Computer Science Engineering student at the College 
 ![](https://github-profile-trophy.vercel.app/?username=Aggushub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />More actions
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+## 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=letaggucode&theme=dark&hide_border=false)
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aggushub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
