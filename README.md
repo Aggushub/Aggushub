@@ -45,11 +45,11 @@ Let’s connect and build something cool together!<br>
 
 <p left="center">
   
-<a href="https://wa.me/8943617444?text=Hello%20Arnab">
+<a href="https://wa.me/8943617444?text=Heyya%20Fella">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" height="30px" />    
 </a>
   
-<a href="www.linkedin.com/in/aghu-a570b9227/">
+<a href="https://www.linkedin.com/in/aghu-a570b9227/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px" />
 </a>
 <a href="https://github.com/Aggushub"> 
