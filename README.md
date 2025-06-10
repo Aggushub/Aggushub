@@ -38,9 +38,26 @@ Let’s connect and build something cool together!
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=letaggucode&theme=dark&hide_border=false)
 
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aggushub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aggushub&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+#### Connect With Me
+
+<p left="center">
+  
+<a href="https://wa.me/8943617444?text=Hello%20Arnab">
+  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" height="30px" />    
+</a>
+  
+<a href="www.linkedin.com/in/aghu-a570b9227/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px" />
+</a>
+<a href="https://github.com/Aggushub"> 
+  <img src="https://img.shields.io/badge/github-%23222222.svg?&style=for-the-badge&logo=github&logoColor=white" height="30px" />        
+</a>
+  
+</p>
