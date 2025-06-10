@@ -9,11 +9,7 @@ I enjoy writing clean, efficient code and thrive on solving real-world problems 
 
 > *"I call myself **'Dead Man Coding'**—because I code till the bugs kill me."* 💀💻 *(a pun, but also kind of true!)*
 
-Let’s connect and build something cool together!
-
-<br><br>
-
-
+Let’s connect and build something cool together!<br>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/diaggu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aghu-a570b9227/7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joelamosphilip@gmail.com) 
 
