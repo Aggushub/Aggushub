@@ -34,5 +34,3 @@ Hi, I'm Joel Amos Philip, a Computer Science Engineering student at the College 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aggushub&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
