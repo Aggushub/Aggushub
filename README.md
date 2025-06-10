@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Micro+5&size=40&pause=1000&color=F71129&background=FF000000&multiline=true&repeat=true&width=435&lines=Welcome+to+AggusHub)](https://git.io/typing-svg)
+<p align="center">
 
 # 💫 About Me :-
 
@@ -46,3 +47,5 @@ Let’s connect and build something cool together!<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aggushub&icon=0&color=0)](https://visitcount.itsvg.in)
+ <img src="https://komarev.com/ghpvc/?username=Aggushub&label=Profile%20views&color=0e75b6&style=flat" alt="Aggushub" />
+</p>
