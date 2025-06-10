@@ -1,7 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Micro+5&size=40&pause=1000&color=F71129&background=FF000000&multiline=true&repeat=true&width=435&lines=Welcome+to+AggusHub)](https://git.io/typing-svg)
 
 # 💫 About Me:
-Hi, I'm Joel Amos Philip, a Computer Science Engineering student at the College of Engineering Poonjar. I'm currently in my final year and love exploring technology, especially in areas like cybersecurity, automation, and software development.<br><br>I’m comfortable working with languages like C, Java, Python, and HTML, and I enjoy solving problems, writing clean code, and learning new tools and frameworks that push me to grow as a developer.<br><br>I'm always open to collaboration, knowledge sharing, or just tech conversations—feel free to reach out!<br><br>
+
+
+**Hi, I'm Joel Amos Philip**, a Computer Science Engineering graduate from the College of Engineering Poonjar. I’m passionate about technology—especially in the realms of cybersecurity, automation, and software development.
+
+I enjoy writing clean, efficient code and thrive on solving real-world problems using languages like **C, Java, Python, and HTML**. Lately, I’ve been diving into **C# and Python frameworks** to keep up with modern development practices and backend tools. I'm always up for **collaboration**, **knowledge sharing**, or just a good tech conversation.
+
+> *"I call myself **'Dead Man Coding'**—because I code till the bugs kill me."* 💀💻 *(a pun, but also kind of true!)*
+
+Let’s connect and build something cool together!
+
+<br><br>
 
 
 ## 🌐 Socials:
