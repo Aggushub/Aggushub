@@ -35,7 +35,7 @@ Let’s connect and build something cool together!<br>
 ## 🏆 GitHub Trophies :-
 <div align="left">
   
-[![](https://github-profile-trophy.vercel.app/?username=Aggushub&theme=matrix)]
+![](https://github-profile-trophy.vercel.app/?username=Aggushub&theme=radical&no-bg=true&no-frame=true&rank=-?)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
