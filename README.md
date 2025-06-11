@@ -19,6 +19,8 @@ Let’s connect and build something cool together!<br>
 [![Email](https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelamosphilip@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8943617444?text=Heyya%20Fella)
 [![GitHub](https://img.shields.io/badge/GitHub-%23222222.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aggushub)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Aggunymous)
+
 <br>
 <br>
 # 💻 Tech Stack :-
