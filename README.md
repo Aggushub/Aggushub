@@ -50,7 +50,14 @@ Let’s connect and build something cool together!<br>
 </div>
 
 ## 🏆 LeetCode Stats :-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/letaggucode?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/letaggucode?theme=dark&extension=activity)
+<p align="left">
+  <img 
+    src="https://leetcode-stats.vercel.app/api?username=letaggucode&theme=dark&no-bg=true&hide_border=false" 
+    alt="LeetCode Stats" 
+    width="600"
+  />
+</p>
+
 
 ### 🔝 Top Contributed Repo :-
 ![](https://github-contributor-stats.vercel.app/api?username=Aggushub&limit=5&&background=EB545400&theme=dark&combine_all_yearly_contributions=true)
