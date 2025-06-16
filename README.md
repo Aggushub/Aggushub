@@ -49,7 +49,7 @@ Let’s connect and build something cool together!<br>
 
 </div>
 
-# 🔥 LeetCode Grind Stats :-
+# <img src="sans-undertale.gif" width="50"> LeetCode Grind Stats :-
 <p align="left">
   <img 
     src="https://leetcode-stats.vercel.app/api?username=letaggucode&theme=dark&no-bg=true&hide_border=false" 
