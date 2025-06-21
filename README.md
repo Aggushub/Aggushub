@@ -32,9 +32,7 @@ Let’s connect and build something cool together!<br>
 # 📊 GitHub Stats :-
 
 ![.](https://stats-svg-ibwz.vercel.app/api/github-status?username=Aggushub)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aggushub&theme=microsoft&hide_border=true&border_radius=4.7&card_height=190&background=EB545400)](https://git.io/streak-stats)
-
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Aggushub&theme=blue-green&hide_border=true&no-bg=true&no-frame=true)<br/>
 
 ## 🏆 GitHub Trophies :-
 <div align="left">
