@@ -9,7 +9,7 @@
 
 I enjoy writing clean, efficient code and thrive on solving real-world problems using languages like **C, Java, Python, and HTML**. Lately, I’ve been diving into **Javascript and Python frameworks** to keep up with modern development practices and backend tools. I'm always up for **collaboration**, **knowledge sharing**, or just a good tech conversation.
 
-> *"I would like to call myself **'Dead Man Coding'**—because I code till the bugs kill me."* 💀💻 *(a pun, but also kind of true!)*
+> *"I would like to call myself **'Dead Man Coding'**—because even dead projects deserve clean commits."* 💀💻 *(a pun, but also kind of true!)*
 
 Let’s connect and build something cool together!<br>
 
