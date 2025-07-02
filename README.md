@@ -2,7 +2,7 @@
 
 
 
-# 💫 About Me :-
+# 💫 This is Me :-
 
 
 **Hi, I'm Joel Amos Philip**, a Computer Science Engineering graduate from the College of Engineering Poonjar. I’m passionate about technology—especially in the realms of cybersecurity, automation, and software development.
@@ -47,7 +47,7 @@ Let’s connect and build something cool together!<br>
 
 </div>
 
-# 🔥LeetCode Grind Stats :-
+# <img src="Leet Fire.gif" width="40"> LeetCode Grind Stats :-
 <p align="left">
   <img 
     src="https://leetcode-stats.vercel.app/api?username=letaggucode&theme=dark&no-bg=true&hide_border=false" 
