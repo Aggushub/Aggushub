@@ -51,7 +51,7 @@ Let’s connect and build something cool together!<br>
 <p align="left">
   <img 
     src="https://leetcode-stats.vercel.app/api?username=letaggucode&theme=dark&no-bg=true&hide_border=false" 
-    alt="LeetCode Stats" 
+    alt="Supposed to be LeetCode Stats (Sorry The API isn't working)" 
     width="600"
   />
 
