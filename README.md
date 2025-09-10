@@ -31,7 +31,7 @@ Let’s connect and build something cool together!<br>
 <br>
 # 📊 GitHub Stats :-
 
-![.](https://stats-svg-mu.vercel.app/api/github-status?username=Aggushub)
+![.](https://stats-svg-sepia.vercel.app/api/github-status?username=Aggushub)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Aggushub&theme=blue-green&hide_border=true&no-bg=true&no-frame=true)<br/>
 
 ## 🏆 GitHub Trophies :-
