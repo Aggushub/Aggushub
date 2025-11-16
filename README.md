@@ -18,7 +18,7 @@ Let’s connect and build something cool together!<br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/diaggu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aghu-a570b9227/)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelamosphilip@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8943617444?text=Heyya%20Fella)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8943617444?text=Heyya%20Fella%20This%20is%20my%20WhatsApp%20Number.)
 [![GitHub](https://img.shields.io/badge/GitHub-%23222222.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aggushub)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Aggunymous)
 <br>
