@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Micro+5&size=40&color=F71129&background=FF000000&lines=Welcome+to+AgguHub;Crafted+by+Joel+Amos+Philip;a.k.a+Aggu+/+Aghu;🔁+Code.+Learn.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Micro+5&size=40&color=F71129&background=FF000000&lines=Welcome+to+AggusHub;Crafted+by+Joel+Amos+Philip;a.k.a+Aggu+/+Aghu;🔁+Code.+Learn.+Repeat.)](https://git.io/typing-svg)
 
 
 
@@ -51,7 +51,7 @@ Let’s connect and build something cool together!<br>
 ## 🏆 GitHub Trophies :-
 <div align="left">
   
-![](https://github-profile-trophy.vercel.app/?username=Aggushub&theme=radical&no-bg=true&no-frame=true&rank=-?)
+![.](https://github-profile-trophy.vercel.app/?username=Aggushub&theme=radical&no-bg=true&no-frame=true&rank=-?)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
