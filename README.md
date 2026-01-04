@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Micro+5&size=40&color=F71129&background=FF000000&lines=Welcome+to+AggusHub;Crafted+by+Joel+Amos+Philip;a.k.a+Aggu+/+Aghu;🔁+Code.+Learn.+Repeat.)](https://git.io/typing-svg)
 
-
 # 💫 This is Me :-
 
 
