@@ -36,9 +36,11 @@ Let’s connect and build something cool together!<br>
 
 | 🚀 Project | 📄 Description | 🧰 Tech Stack | 🗂️ Repository |
 |-----------|----------------|----------------|----------------|
-| **Portfolio Website** | A responsive, modern portfolio with a neon theme and interactive UI elements. | HTML,  CSS, JavaScript | 📁 [Repo](https://github.com/Aggushub/Agguhub.io) |
-| **Shadow PDA** | An advanced Personal Digital Assistant with automation, system intelligence, and modular features. | Python, Django, AI | 📁 [Repo](https://github.com/Aggushub/Shadow-PDA.git)|
-| **IDS System** | A custom Intrusion Detection System to monitor, detect, and flag network anomalies. | VMWare, Debian, Python| 📁 [Repo](https://github.com/Aggushub/IDS-System)|
+| **Portfolio Website** | A responsive, modern portfolio with a neon theme and interactive UI elements. | HTML, CSS, JavaScript | 📁 [Repo](https://github.com/Aggushub/Agguhub.io) |
+| **Shadow PDA** | An advanced Personal Digital Assistant with automation, system intelligence, and modular features. | Python, Django, AI | 📁 [Repo](https://github.com/Aggushub/Shadow-PDA.git) |
+| **IDS System** | A custom Intrusion Detection System to monitor, detect, and flag network anomalies. | VMWare, Debian, Python | 📁 [Repo](https://github.com/Aggushub/IDS-System) |
+| **Web Development Projects** | A curated collection of frontend projects focusing on layouts, components, and interactive UI patterns. | HTML, CSS, JavaScript | 📁 [Repo](https://github.com/Aggushub/Web-Development-Projects.git) |
+
 <br>
 
 # 📊 GitHub Stats :-
@@ -66,13 +68,13 @@ Let’s connect and build something cool together!<br>
     alt="Supposed to be LeetCode Stats (Sorry The API isn't working)" 
     width="600"
   />
-<!--
-## 🔝 Top Contributed Repo :-
+
+<!--## 🔝 Top Contributed Repo :--->
 ![](https://github-contributor-stats.vercel.app/api?username=Aggushub&limit=5&&background=EB545400&theme=dark&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=Aggushub&icon=0&color=0)](https://visitcount.itsvg.in)
  <img src="https://komarev.com/ghpvc/?username=Aggushub&label=Profile%20views&color=blue&style=flat" alt="Aggushub" />
  ![World Visitor Map](https://api.visitorbadge.io/api/visitors?path=Aggushub&label=World+Map&countColor=light-blue&style=flat)
- -->
+
  
 
 </p>
