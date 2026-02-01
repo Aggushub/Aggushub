@@ -69,8 +69,9 @@ Let’s connect and build something cool together!<br>
     width="600"
   />
 
-<!--## 🔝 Top Contributed Repo :--->
+## 🔝 Top Contributed Repo :
 ![](https://github-contributor-stats.vercel.app/api?username=Aggushub&limit=5&&background=EB545400&theme=dark&combine_all_yearly_contributions=true)
+
 [![](https://visitcount.itsvg.in/api?id=Aggushub&icon=0&color=0)](https://visitcount.itsvg.in)
  <img src="https://komarev.com/ghpvc/?username=Aggushub&label=Profile%20views&color=blue&style=flat" alt="Aggushub" />
  ![World Visitor Map](https://api.visitorbadge.io/api/visitors?path=Aggushub&label=World+Map&countColor=light-blue&style=flat)
