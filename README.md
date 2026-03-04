@@ -63,11 +63,13 @@ Let’s connect and build something cool together!<br>
 
 # <img src="Leet Fire.gif" width="40"> LeetCode Grind Stats :-
 <p align="left">
-  <img 
+  <!-- <img 
     src="https://leetcode-stats.vercel.app/api?username=letaggucode&theme=dark&no-bg=true&hide_border=false" 
     alt="Supposed to be LeetCode Stats (Sorry The API isn't working)" 
     width="600"
-  />
+  /> -->
+
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/letaggucode?theme=dark&extension=activity)](https://leetcard.jacoblin.cool/letaggucode?theme=dark&extension=activity)
 
 ## 🔝 Top Contributed Repo :
 ![](https://github-contributor-stats.vercel.app/api?username=Aggushub&limit=5&&background=EB545400&theme=dark&combine_all_yearly_contributions=true)
