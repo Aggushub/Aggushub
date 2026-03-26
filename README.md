@@ -2,7 +2,6 @@
 
 # 💫 This is Me :-
 
-
 **Hi, I'm Joel Amos Philip**, a Computer Science Engineering graduate from the College of Engineering Poonjar. I’m fervent about technology—especially in the realms of cybersecurity, automation, and software development.
 
 I enjoy writing clean, efficient code and thrive on solving real-world problems using languages like **C#, Java, Python, and Javascript**. Lately, I’ve been diving into AI, ML and **Full Stack frameworks** to keep up with modern development practices and backend tools. I'm always up for **collaboration**, **knowledge sharing**, or just a good tech conversation.
