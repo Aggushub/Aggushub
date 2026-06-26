@@ -2,13 +2,20 @@
 
 # 💫 This is Me :-
 
-**Hi, I'm Joel Amos Philip**, a Computer Science Engineering graduate from the College of Engineering Poonjar. I’m fervent about technology—especially in the realms of cybersecurity, automation, and software development.
+### Hi, I'm Joel Amos Philip 👋
 
-I enjoy writing clean, efficient code and thrive on solving real-world problems using languages like **C#, Java, Python, and Javascript**. Lately, I’ve been diving into AI, ML and **Full Stack frameworks** to keep up with modern development practices and backend tools. I'm always up for **collaboration**, **knowledge sharing**, or just a good tech conversation.
+I'm currently working as a **Systems Engineer at TCS** with a background in **Computer Science and Engineering** from the **College of Engineering Poonjar**. I'm passionate about building intelligent, scalable, and impactful software solutions, with a strong interest in **Artificial Intelligence, Generative AI, Automation, Cybersecurity, and Full Stack Development**.
 
-> *"I would like to call myself **'Dead Man Coding'**—because even dead projects deserve clean commits."* 💀💻 *(a pun, but also kind of true!)*
+I enjoy solving real-world problems by writing clean, maintainable code using **C#, Java, Python, JavaScript, and SQL**. My current work has strengthened my understanding of **enterprise software development**, while I continue expanding my expertise in **LLMs, Machine Learning, cloud technologies, backend development, and modern AI frameworks**.
 
-Let’s connect and build something cool together!<br>
+I'm always excited to:
+
+* 🚀 Build innovative software and AI solutions
+* 🤝 Collaborate on interesting projects
+* 📚 Learn emerging technologies
+* 💡 Share knowledge with the developer community
+
+> *"I like to call myself **Dead Man Coding**—because even dead projects deserve clean commits."* 💀💻
 
 <a href="https://aggushub.github.io/Agguhub.io/">
       <img src="Portfolio.gif" width="300">
